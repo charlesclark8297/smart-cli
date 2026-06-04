@@ -1,4 +1,4 @@
 # Development Activity Log
-Last updated: 2026-06-03T21:20:17Z
-Entry: docs: add architecture diagram and sequence notes to README
-Sequence: 49/95
+Last updated: 2026-06-04T12:41:03Z
+Entry: refactor: extract reusable helper routines into utility module
+Sequence: 50/95
